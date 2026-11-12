@@ -47,7 +47,7 @@ public static WebDriver driver;
 		
 		extent.setSystemInfo("Hostname", "localhost");
 		extent.setSystemInfo("OS", "window11");
-		extent.setSystemInfo("Tester Name", "Parvathy");
+		extent.setSystemInfo("Tester Name", "Adarsh");
 		extent.setSystemInfo("Browser Name", "chrome");
 
 		ChromeOptions options = new ChromeOptions(); //--
